@@ -17,7 +17,7 @@
 - **طراحی و توسعه وب** (Frontend & Backend)
 - **اتوماسیون فرآیندها** با Python و ابزارهای مدرن
 - **طراحی داشبوردهای مدیریتی** پیشرفته و حرفه‌ای
-- علاقه‌مند به **UI/UX**، **Performance** و **Scalability**
+-  **UI/UX**، **Performance**  **Scalability**
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Frontend:**
 - HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-- React.js / Vue.js (در حال پیشرفت)
+- React.js / Vue.js 
 
 **Backend & Automation:**
 - PHP, Python
@@ -37,7 +37,7 @@
 - طراحی پنل‌های مدیریتی کامل (Admin Panel)
 
 **ابزارها:**
-- Git, GitHub, Linux, Docker (در حال یادگیری)
+- Git, GitHub, Linux, Docker 
 - Figma, Photoshop
 
 ---
@@ -53,8 +53,8 @@
 
 ### 📫 ارتباط با من
 
-- **GitHub**: [@AryanMirdamadi](https://github.com/AryanMirdamadi)
-- **ایمیل**: aryanmirdamadi1996@gmail.com
+- **GitHub**:(https://github.com/AryanMirdamadi)
+- **ایمیل**: dadebama@proton.me
 - **تلفن**: +98 913 918 5416
 
 ---
