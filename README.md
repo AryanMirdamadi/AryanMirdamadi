@@ -2,7 +2,7 @@
   
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Dinosaur">
   
-  <h1>🦕 سلام! من آرین میردامادی هستم</h1>
+  <h1> سلام! من آرین میردامادی هستم</h1>
   
   <p>
     <strong>طراح و توسعه‌دهنده وب • متخصص اتوماسیون • سازنده داشبوردهای مدیریتی پیشرفته</strong>
@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/GitHub-AryanMirdamadi-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="mailto:aryanmirdamadi1996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aryanmirdamadi1996%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-dadebama@proton.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://dadebama.ir">
     <img src="https://img.shields.io/badge/Website-dadebama.ir-8C6F4E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
